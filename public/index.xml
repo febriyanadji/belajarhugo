@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Hugo Zzo Theme</title>
     <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 24 Dec 2019 20:18:16 +0700</lastBuildDate>
+    <language>en</language>
+    <managingEditor>febriyan.aji@gmail.com (Febriyan Adji Saputro)</managingEditor>
+    <webMaster>febriyan.aji@gmail.com (Febriyan Adji Saputro)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Baur</title>
-      <link>http://example.org/posts/baur/</link>
-      <pubDate>Tue, 24 Dec 2019 20:18:16 +0700</pubDate>
+    
       
-      <guid>http://example.org/posts/baur/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
