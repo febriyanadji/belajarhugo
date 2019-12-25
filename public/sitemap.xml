@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://febriyanadji.github.io/belajarhugo/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://febriyanadji.github.io/belajarhugo/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://febriyanadji.github.io/belajarhugo/series/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://febriyanadji.github.io/belajarhugo/tags/</loc>
   </url>
   
 </urlset>
