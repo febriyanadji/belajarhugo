@@ -1,6 +1,6 @@
 [
 {
-	"uri": "https://febriyanadji.github.io/belajarhugo/categories/",
+	"uri": "http://example.org/categories/",
 	"title": "Categories",
 	"tags": [],
 	"categories": [],
@@ -9,7 +9,7 @@
 	"content": ""
 },
 {
-	"uri": "https://febriyanadji.github.io/belajarhugo/",
+	"uri": "http://example.org/",
 	"title": "Hugo Zzo Theme",
 	"tags": [],
 	"categories": [],
@@ -18,7 +18,7 @@
 	"content": ""
 },
 {
-	"uri": "https://febriyanadji.github.io/belajarhugo/series/",
+	"uri": "http://example.org/series/",
 	"title": "Series",
 	"tags": [],
 	"categories": [],
@@ -27,7 +27,7 @@
 	"content": ""
 },
 {
-	"uri": "https://febriyanadji.github.io/belajarhugo/tags/",
+	"uri": "http://example.org/tags/",
 	"title": "Tags",
 	"tags": [],
 	"categories": [],

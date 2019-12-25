@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo Zzo Theme</title>
-    <link>https://febriyanadji.github.io/belajarhugo/categories/</link>
+    <link>http://example.org/categories/</link>
     <description>Recent content in Categories on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,7 +10,7 @@
     <webMaster>febriyan.aji@gmail.com (Febriyan Adji Saputro)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://febriyanadji.github.io/belajarhugo/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
